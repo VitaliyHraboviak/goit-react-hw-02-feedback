@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Section from '../components/Section/Section' 
+import Section from '../Section/Section' 
 import css from './Notification.module.css';
 
 const Notification = ({message}) => {

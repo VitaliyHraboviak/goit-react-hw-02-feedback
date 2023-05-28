@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Statistics from './Statistics/Statistics';
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
-import Notification from 'Notification/Notification';
+import Notification from 'components/Notification/Notification';
 import css from './App.module.css'
 
 export const App = () => {
